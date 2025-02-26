@@ -60,11 +60,4 @@ In this tutorial, we will create and connect a virtual machine in the Windows op
   <img width="511" alt="image" src="https://github.com/user-attachments/assets/239d236a-3c04-4a8b-85a8-f2def018b19c" />
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/5e26feca-71f0-4179-84ce-8d4e3192f057" />
   <img src="https://i.imgur.com/6gouNAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
-  ![image](https://github.com/user-attachments/assets/dc051b66-796f-4c78-bb1c-ef6c1621d055)
-
-
-  ![image](https://github.com/user-attachments/assets/3f858c46-2eaa-46c3-add7-b1ba169c1072)
-
-  ![image](https://github.com/user-attachments/assets/86d98fd0-6787-4d20-9df5-ada54acf41ea)
 </p>
