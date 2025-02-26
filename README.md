@@ -16,79 +16,55 @@ In this tutorial, we will create and connect a virtual machine in the Windows op
 
 <h2>Creating a Virtual Machine Steps</h2>
 <p>
-1.) Azure homepage -> searchbar "Azure Machine" -> Azure virtual machine
+1.) Azure homepage -> searchbar "Virtual Machine" -> Azure virtual machine
 </p>
 <p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 12 20 PM" src="https://github.com/user-attachments/assets/7f46a4b8-1d82-4219-8ef7-0150dab4e217">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 08 17 PM" src="https://github.com/user-attachments/assets/cb510403-0729-4b85-aa55-03a6dbb7f55e">
+  <img width="940" alt="image" src="https://github.com/user-attachments/assets/7bfe0f82-2040-4e0d-87f2-ff11dcdedf82" />
+  <img width="946" alt="image" src="https://github.com/user-attachments/assets/4b31f75f-b19f-4f96-8b19-76aaeba53264" />
 </p>
 <p>
   2.) Configure the virtual machine
 </p>
 <p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 19 48 PM" src="https://github.com/user-attachments/assets/82a5f0f5-567b-420d-b8df-9250ca6e5ba1">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 27 27 PM" src="https://github.com/user-attachments/assets/95c39233-0f5f-4658-ab20-fa17e2ba7552">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 32 14 PM" src="https://github.com/user-attachments/assets/4c963018-30c2-459c-a029-7ee88381e320">
+  <img width="952" alt="image" src="https://github.com/user-attachments/assets/79700f3f-e235-44a5-bdb4-2da5c022bd4f" />
+  <img width="628" alt="image" src="https://github.com/user-attachments/assets/39f60b7b-90a6-4c98-84a2-cf0f4f018c60" />
 
 </p>
 <p>
-  3.) Review and create (might take a little bit to deploy)
+  3.) Review and create (deployment will take a while )
 </p>
 <p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 37 23 PM" src="https://github.com/user-attachments/assets/5a83c31a-f3d2-4f49-b623-a7a280d48355">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 38 48 PM" src="https://github.com/user-attachments/assets/51441f5e-d090-4f46-95f2-81bdb76c4712">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 41 47 PM" src="https://github.com/user-attachments/assets/0b79b90e-0115-4006-b3aa-b2930ae5c362">
-</p>
-<h2>Connect to a virtual machine in MacOS</h2>
-<p>
-  1.) Go to App Store and download "Windows App"
-</p>
-<p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 49 41 PM" src="https://github.com/user-attachments/assets/507f6987-0efa-4b53-bd50-9c31f08c3835">
-</p>
-<p>
-  2.) Locate the virtual machine's IP address in Azure
-</p>
-<p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 52 11 PM" src="https://github.com/user-attachments/assets/82388cfd-d1aa-402e-838c-8a7961acdc56">
-</p>
-<p>
-  3.) Add the virtual machine in Windows App
+  <img width="619" alt="image" src="https://github.com/user-attachments/assets/7fbe0f4f-162b-48ba-8cdb-fcbd4096b5b5" />
+  <img width="947" alt="image" src="https://github.com/user-attachments/assets/85690ff2-f598-432e-bba6-502bdf69e3bd" />
+  <img width="929" alt="image" src="https://github.com/user-attachments/assets/8dc5ca11-13ae-4be5-8aff-8a7b4acbdcae" />
 
-</p>
-<p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 54 25 PM" src="https://github.com/user-attachments/assets/aed518c7-5833-4cf8-be45-dbc30e362fd7">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 55 55 PM" src="https://github.com/user-attachments/assets/d2dd2fc3-e5fc-47d9-b796-11ea7b93d248">
-  <img width="80%" alt="Screenshot 2024-11-03 at 1 58 25 PM" src="https://github.com/user-attachments/assets/10f2ca13-6706-42fc-9343-76607896c2b4">
-</p>
-<p>
-  4.) Connect to the virtual machine in Windows App.
-</p>
-<p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 10 13 PM" src="https://github.com/user-attachments/assets/9c6e814e-88a3-4747-8145-45e1bd84fda9">
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 11 07 PM" src="https://github.com/user-attachments/assets/be69118c-e946-46bc-8bb4-62c926e42a81">
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 11 47 PM" src="https://github.com/user-attachments/assets/06f3b60f-012f-432d-99e3-d84f637cd6d6">
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 12 53 PM" src="https://github.com/user-attachments/assets/a7c6be8b-d2b0-4b66-9ff5-deb6d83aef1f">
-</p>
 <h2>Connect to a virtual machine in Windows</h2>
 <p>
-  1.) Locate the virtual machine's IP address in Azure
+  1.) Locate and copy the virtual machine's IP address in Azure
 </p>
 <p>
-    <img width="80%" alt="Screenshot 2024-11-03 at 1 52 11 PM" src="https://github.com/user-attachments/assets/82388cfd-d1aa-402e-838c-8a7961acdc56">
+    <img width="948" alt="image" src="https://github.com/user-attachments/assets/56031fb9-a4db-4d15-9109-8ba1ccf0ed30" />
 </p>
 <p>
-  2.) In your Menu Search Bar, type "remote desktop" -> click on Remote Desktop Connection
+  2.) Hit Windows and type "remote desktop" -> click on Remote Desktop Connection
 </p>
 <p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 22 14 PM" src="https://github.com/user-attachments/assets/820ac65c-2e7f-4378-ab28-61b36547a2e5">
+  <img width="953" alt="image" src="https://github.com/user-attachments/assets/31eba3b0-522f-48ac-a25c-9773eaa2a7dd" />
 </p>
 <p>
   3.) Type in the IP Address and your credentials
 </p>
 <p>
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 22 56 PM" src="https://github.com/user-attachments/assets/e221d652-0c14-4b20-90bb-2a2939b9548c">
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 23 36 PM" src="https://github.com/user-attachments/assets/bb0f2f9d-c1fe-4be1-88d2-579d7b57ac9d">
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 24 27 PM" src="https://github.com/user-attachments/assets/1c7de973-d79b-43fe-8fdb-006ccef25e44">
-  <img width="80%" alt="Screenshot 2024-11-03 at 2 24 53 PM" src="https://github.com/user-attachments/assets/7af8f779-cee3-445c-85a3-e5695245850b">
+  <img width="425" alt="image" src="https://github.com/user-attachments/assets/ab7eb769-58c2-42cb-9ab3-ea787e93855f" />
+  <img width="419" alt="image" src="https://github.com/user-attachments/assets/0a952cb0-56d6-4ea6-82cd-a3da723534ab" />
+  <img width="511" alt="image" src="https://github.com/user-attachments/assets/239d236a-3c04-4a8b-85a8-f2def018b19c" />
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/5e26feca-71f0-4179-84ce-8d4e3192f057" />
+  <img src="https://i.imgur.com/6gouNAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  ![image](https://github.com/user-attachments/assets/dc051b66-796f-4c78-bb1c-ef6c1621d055)
+
+
+  ![image](https://github.com/user-attachments/assets/3f858c46-2eaa-46c3-add7-b1ba169c1072)
+
+  ![image](https://github.com/user-attachments/assets/86d98fd0-6787-4d20-9df5-ada54acf41ea)
 </p>
