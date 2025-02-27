@@ -6,7 +6,7 @@ In this tutorial, we will create and connect a virtual machine in the Windows op
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Create and Connect Azure Virtual Machines](https://www.youtube.com)
+- ### [YouTube: How To Create and Connect Azure Virtual Machines](https://youtu.be/5FQssBt0Tw4)
 
 <h2>Environments and Technologies Used</h2>
 
