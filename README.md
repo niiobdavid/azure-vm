@@ -61,3 +61,25 @@ In this tutorial, we will create and connect a virtual machine in the Windows op
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/5e26feca-71f0-4179-84ce-8d4e3192f057" />
   <img src="https://i.imgur.com/6gouNAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+   - Congratulations! You successfully created an Azure VM and connected to it via Remote Desktop.
+</p>
+</br>
+
+</p>
+  - Make sure to log out and delete all resources created so as not to incur extra costs.
+</p>
+<p>
+  <img width="952" alt="image" src="https://github.com/user-attachments/assets/e6f74d1e-590d-4da5-9a3f-0e3b9b71c92b" />
+  <img width="952" alt="image" src="https://github.com/user-attachments/assets/de09aa4c-9b90-4571-ba74-94da8dd7c2f4" />
+  <img width="952" alt="image" src="https://github.com/user-attachments/assets/405fee84-bb58-4fca-a648-3918169548c5" />
+  <img width="950" alt="image" src="https://github.com/user-attachments/assets/493d5583-c7e6-4eff-9491-75cedc6b3db7" />
+</p>
+
+</p>
+ - Refresh browser to make sure all resources are deleted
+</p>
+</p>
+  <img width="950" alt="image" src="https://github.com/user-attachments/assets/bbe97674-a4e6-4ff7-98ff-530389b59955" />
+</p>
+🎊🎊
