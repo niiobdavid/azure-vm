@@ -6,7 +6,7 @@ In this tutorial, we will create and connect a virtual machine in the Windows op
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: How To Create and Connect Azure Virtual Machines](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
