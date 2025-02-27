@@ -2,7 +2,7 @@
 <img width="40%"  alt="Azure logo" src="https://github.com/user-attachments/assets/a12ee0f7-4e4f-423b-b9d9-11d529966ec6">
 </p>
 <h1>Create and Connect Azure Virtual Machines</h1>
-In this tutorial, we will create and connect a virtual machine in the Windows operating system.
+In this tutorial, we will create and connect a virtual machine in the Windows operating system with Remote Desktop.
 
 <h2>Video Demonstration</h2>
 
