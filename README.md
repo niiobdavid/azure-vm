@@ -4,6 +4,10 @@
 <h1>Create and Connect Azure Virtual Machines</h1>
 In this tutorial, we will create and connect a virtual machine in the Windows operating system.
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
